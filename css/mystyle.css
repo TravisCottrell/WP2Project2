@@ -1,0 +1,47 @@
+body {
+    padding-bottom: 120px;
+}
+.footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 30px;
+	line-height: 30px; 
+	background-color: dimgray;
+	
+  }
+
+#searchform{
+	border:1px solid lightgrey;
+}
+
+mark {
+	background-color: yellow;
+	color: black;
+  }
+
+
+ul {
+	list-style-type: none;
+	
+}
+
+
+
+ .navbar a {
+	color: white;
+  }
+
+
+a:hover {
+	color: blue;
+  }
+  
+  .navbar-brand{
+	color: white !important;
+  }
+
+  .dropdown-menu{
+  background: DimGray !important;
+  }
+
